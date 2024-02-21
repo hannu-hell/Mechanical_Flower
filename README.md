@@ -5,8 +5,8 @@ STL Design files for Mechanical Flower
 ## External Libraries
 Raspberry Pi Pico code files are also included and there are a some micropython libraries which which need to be copied to the root folder. Listed below are the libraries used.
 
-1-adafruit_bus_device
-2-adafruit_display_text
+1-adafruit_bus_device<br>
+2-adafruit_display_text<br>
 3-adafruit_motor
 4-adafruit_register
 5-asyncio
