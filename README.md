@@ -7,11 +7,11 @@ Raspberry Pi Pico code files are also included and there are a some micropython 
 
 1-adafruit_bus_device<br>
 2-adafruit_display_text<br>
-3-adafruit_motor
-4-adafruit_register
-5-asyncio
-6-adafruit_ds1307.mpy
-7-adafruit_pixelbuf.mpy
-8-adafruit_ST7735.mpy
-9-adafruit_ticks.mpy
+3-adafruit_motor<br>
+4-adafruit_register<br>
+5-asyncio<br>
+6-adafruit_ds1307.mpy<br>
+7-adafruit_pixelbuf.mpy<br>
+8-adafruit_ST7735.mpy<br>
+9-adafruit_ticks.mpy<br>
 10-neopixel.mpy
